@@ -1,0 +1,1 @@
+web: gunicorn ifscfinder.wsgi --log-file -
